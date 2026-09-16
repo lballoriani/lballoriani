@@ -18,6 +18,7 @@ standalone, documented, and runnable with one command.
 | [**claude-code-toolkit**](https://github.com/lballoriani/claude-code-toolkit) | A tested PreToolUse safety hook for Claude Code (blocks `rm -rf /`, `curl\|sh`, secret exfiltration, force-push…), plus reusable sub-agents and slash commands. | Python · Claude Code |
 | [**rpg-campaign-factory**](https://github.com/lballoriani/rpg-campaign-factory) | Multi-agent AI pipeline that generates complete, bilingual (IT/EN) tabletop RPG campaigns as print-ready PDFs — orchestrated specialist agents + Python/Typst tooling. | Python · multi-agent AI |
 | [**edge-provision**](https://github.com/lballoriani/edge-provision) | Idempotent bash bootstrap for edge/fleet Linux hosts: `ensure_*` primitives, dry-run, per-host config, container-tested idempotency. | Bash · Docker |
+| [**finance-public**](https://github.com/lballoriani/finance-public) | Personal investment manager: bi-weekly AI market watch + catalyst scanner via GitHub Actions, Telegram bot with order-ticket buttons, Trade Republic read-only sync, ETF PAC rebalancing. | Python · Claude Code · GitHub Actions |
 
 ## 🧰 Tech
 
