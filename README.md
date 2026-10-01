@@ -25,4 +25,4 @@ standalone, documented, and runnable with one command.
 `Linux` · `Python` · `Bash` · `PostgreSQL/TimescaleDB` · `Grafana` · `Docker` ·
 `Proxmox` · `Node-RED` · `IoT/edge` · `monitoring & observability`
 
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/lballoriani/)
+🌐 [balloriani.com](https://balloriani.com) · 📫 [LinkedIn](https://www.linkedin.com/in/lballoriani/)
